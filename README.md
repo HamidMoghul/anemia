@@ -21,7 +21,3 @@ National Health and Nutrition Examination Survey (NHANES) 2013-2014
 source: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013
 
 
-#### Where users can get help with your project
-Appreciate your feedback through comments or pull requests. 
-
-
