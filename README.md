@@ -22,6 +22,6 @@ source: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear
 
 
 #### Where users can get help with your project
-Appreciate your feedback through comment or pull requests. 
+Appreciate your feedback through comments or pull requests. 
 
 
